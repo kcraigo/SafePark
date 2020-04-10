@@ -45,18 +45,18 @@ in the **Add SharePoint Lists section**
  
 **References**
 
-[React:](https://reactjs.org/docs/create-a-new-react-app.html) 
+[ReactJs.org](https://reactjs.org/docs/create-a-new-react-app.html) 
 
-[PnPJS:](https://pnp.github.io/pnpjs/) 
+[PnPJS Github](https://pnp.github.io/pnpjs/) 
 
-[Microsoft Ui-Fabric is now FluentUi:](https://developer.microsoft.com/en-us/fluentui#/) 
+[Microsoft Ui-Fabric is now FluentUi](https://developer.microsoft.com/en-us/fluentui#/) 
 
 
 **Graph Explorer:**  
 
-[Current–](https://aka.ms/ge) 
+[Current version](https://aka.ms/ge) 
 
-[Preview Version -](https://developer.microsoft.com/en-us/graph) 
+[Preview Version](https://developer.microsoft.com/en-us/graph) 
 
 [Microsoft Graph Client](https://www.npmjs.com/package/@microsoft/microsoft-graph-client)
 
