@@ -1,0 +1,36 @@
+.container{
+    position: relative;
+    left: 23%;
+    background-color: rgba(255, 255, 255, 1);
+    padding: 20px;
+    margin: 30px;
+    box-shadow: 1px 1px 5px 1px grey;
+    // border: solid;
+    // border-color: dimgrey;
+    // border-width: thin;
+    border-radius: 14px;
+    width: 860px;
+    height: auto;
+}
+
+.requestForm {
+    padding-bottom: 120px;
+}
+
+.row-spacer
+{
+   padding: 12px;
+}
+
+.policyLink
+{
+    color: deepskyblue;
+    font-size: medium;
+}
+
+.align-right {
+    position: absolute;
+    right: 10px;
+    padding: 30px;
+}
+
