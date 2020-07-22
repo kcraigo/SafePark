@@ -28,20 +28,6 @@ In the directory containing package.json type: npm install
 Follow the the instructions in **Part 4** of the blog series below.
 in the **Add SharePoint Lists section**
 
-**Related Blog Series:**   
-
-[Part 1 – Overview](https://webdevbythebay.com/creating-a-sharepoint-app-with-react-overview/) 
-
-[Part 2: Setup the app dependencies, SharePoint, WebPack and the basic layout](https://webdevbythebay.com/create-a-sharepoint-app-with-react-setup/) 
-
-[Part 3: Style with the Ui-Fabric library](https://webdevbythebay.com/create-a-sharepoint-app-with-react-styling/)
-
-[Part 4: Use the pnp/sp module in the PNPJS Library to Surface SharePoint list data](https://webdevbythebay.com/create-a-sharepoint-app-with-react-surface-sharepoint-list-data-with-pnpjs/) 
-
-[Part 5: Save to SharePoint with pnp/sp](https://webdevbythebay.com/create-a-sharepoint-app-with-react-save-to-sharepoint-with-pnp-sp/)
-
-[Part 6: Connecting to the Microsoft Graph](https://webdevbythebay.com/create-a-sharepoint-app-with-react-connect-with-microsoft-graph/)
-
  
 **References**
 
